@@ -1,0 +1,4 @@
+Obserable Trends:
+1. Temperature increases when the latitude is below the equator.
+2. Humidity is low between the latitudes of 50 and 70.
+3. Wind speeds increase as the latitude goes away above the equator.
