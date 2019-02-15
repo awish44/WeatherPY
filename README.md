@@ -1,6 +1,6 @@
 # Weather Analysis |  What's the Weather Like?
 
-* Click here to view my [final code](WeatherPy_starter.ipynb)!
+* Click [here](WeatherPy_starter.ipynb) to view my final code!
 
 ## Background
 
